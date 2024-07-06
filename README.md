@@ -24,7 +24,7 @@ page paper is allowing users to publish single file html to internet with one cl
 # window live preview 
 window live preview you can see your code side by side without refresh 
 
-get more information <a href="https://my-coder-seven.vercel.app/About.html">About</a>
-<a href="https://my-coder-seven.vercel.app/questions.html">Questions & answers</a>
-<a href="https://my-coder-seven.vercel.app/Contact%20Us.html">Contact us</a>
+get more information <a href="https://my-coder-seven.vercel.app/About.html">About</a><br>
+<a href="https://my-coder-seven.vercel.app/questions.html">Questions & answers</a><br>
+<a href="https://my-coder-seven.vercel.app/Contact%20Us.html">Contact us</a><br>
 <a href="my-coder-seven.vercel.app/">My Coder Seven</a>
